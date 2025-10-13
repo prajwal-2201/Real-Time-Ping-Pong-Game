@@ -80,7 +80,7 @@ ping-pong/
         ├── wall_bounce.wav
         └── score.wav
 ```
-##🛠️ Setup Instructions
+## 🛠️ Setup Instructions
 1️⃣ Clone Repository
 ```bash
 git clone https://github.com/yourusername/ping-pong.git
@@ -103,13 +103,13 @@ paddle_hit.wav, wall_bounce.wav, score.wav
 ---
 
 
-##🧪 Task Completion Checklist
-✅ Accurate ball-paddle collision
-✅ Game over and winner display
-✅ Replay (Best of 3/5/7)
-✅ Sound feedback implemented
-✅ Gradual speed increase
-✅ Code modular and error-free
+## 🧪 Task Completion Checklist
+✅  Accurate ball-paddle collision
+✅  Game over and winner display
+✅  Replay (Best of 3/5/7)
+✅  Sound feedback implemented
+✅  Gradual speed increase
+✅  Code modular and error-free
 
 
 
