@@ -1,5 +1,4 @@
 # 🕹️ Real-Time Ping Pong Game  
-![Banner](https://img.shields.io/badge/Game%20Project-Python%20%7C%20Pygame-blue?style=for-the-badge&logo=python&logoColor=white)
 
 
 ---
