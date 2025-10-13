@@ -1,11 +1,6 @@
 # 🕹️ Real-Time Ping Pong Game  
 ![Banner](https://img.shields.io/badge/Game%20Project-Python%20%7C%20Pygame-blue?style=for-the-badge&logo=python&logoColor=white)
 
-[![Python](https://img.shields.io/badge/Python-3.10%2B-yellow?style=flat-square&logo=python)](https://www.python.org/)
-[![Pygame](https://img.shields.io/badge/Pygame-Game%20Engine-green?style=flat-square&logo=pygame)]
-[![Object-Oriented](https://img.shields.io/badge/Design-OOP%20Principles-orange?style=flat-square)]
-[![License](https://img.shields.io/badge/License-Academic-blue?style=flat-square)]
-[![Status](https://img.shields.io/badge/Status-Completed-success?style=flat-square)]
 
 ---
 
