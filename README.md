@@ -122,6 +122,11 @@ paddle_hit.wav, wall_bounce.wav, score.wav
 
 🎵 Scoring → ```bash score.wav```
 
+Make sure you have valid .wav sound files in:
+```bash
+assets/sounds/
+```
+
 
 
 
