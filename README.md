@@ -105,11 +105,28 @@ paddle_hit.wav, wall_bounce.wav, score.wav
 
 ## 🧪 Task Completion Checklist
 ✅  Accurate ball-paddle collision
+
 ✅  Game over and winner display
+
 ✅  Replay (Best of 3/5/7)
+
 ✅  Sound feedback implemented
+
 ✅  Gradual speed increase
+
 ✅  Code modular and error-free
+
+
+---
+
+## 🎵 Sound System
+
+🎵 Paddle hit → ```bash paddle_hit.wav```
+
+🎵 Wall bounce → ```bash wall_bounce.wav```
+
+🎵 Scoring → ```bash score.wav```
+
 
 
 
