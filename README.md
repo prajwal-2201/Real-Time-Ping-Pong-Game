@@ -127,8 +127,62 @@ Make sure you have valid .wav sound files in:
 assets/sounds/
 ```
 
+---
+
+## 🧠 Architecture
+
+| Module           | Responsibility                             |
+| ---------------- | ------------------------------------------ |
+| `game_engine.py` | Core loop, physics, scoring, and rendering |
+| `paddle.py`      | Player & AI movement logic                 |
+| `ball.py`        | Ball physics and collisions                |
+| `main.py`        | Game initialization & event handling       |
 
 
 
+---
+
+## 💡 Future Enhancements
+
+🎧 Background music and volume controls
+
+👥 Two-player local multiplayer mode
+
+🧮 Score leaderboard system
+
+💫 Particle effects for hits and goals
+
+🌐 Online multiplayer (via sockets)
+
+
+
+---
+
+
+## 👨‍💻 Author
+
+Prajwal V
+
+Department of Computer Science
+
+PES University, Bangalore
+
+
+📧 vprajwal2204@gmail.com
+
+
+
+---
+
+
+## 📜 License
+
+This project was developed as part of VibeCoding Lab 4 (UE23CS351A).
+
+It is open for academic or learning use under the MIT License.
+
+---
+
+⭐ If you found this project helpful, don’t forget to star ⭐ the repo on GitHub!
 
 
