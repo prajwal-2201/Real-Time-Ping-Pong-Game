@@ -77,7 +77,7 @@ ping-pong/
 ## 🛠️ Setup Instructions
 1️⃣ Clone Repository
 ```bash
-git clone https://github.com/yourusername/ping-pong.git
+git clone https://github.com/prajwal-2201/Real-Time-Ping-Pong-Game.git
 cd ping-pong
 ```
 2️⃣ Install Dependencies
